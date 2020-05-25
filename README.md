@@ -1,8 +1,14 @@
 ![baner](./baner.png)
-<br/>
+<br/><br/>
+<p><img src="https://img.shields.io/github/v/release/andreascandle/countries-states-cities-database?style=flat-square" alt="release" data-canonical-src="https://img.shields.io/github/v/release/andreascandle/countries-states-cities-database?style=flat-square" style="max-width:100%;">
+  <img src="https://img.shields.io/github/repo-size/andreascandle/countries-states-cities-database?label=size&style=flat-square" data-canonical-src="https://img.shields.io/github/repo-size/andreascandle/countries-states-cities-database?label=size&style=flat-square" style="max-width:100%;">
+</p>
+
 # Countries States Cities Database
 Full Database for world countries, states and cities are Covered & Populated with Different Combinations & Versions.
 <br/>
+<p/>
+
 ## Formats Available
 * CSV 
 * SQL
