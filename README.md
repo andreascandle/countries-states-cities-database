@@ -12,6 +12,7 @@ Full Database for world countries, states and cities are Covered & Populated wit
 ## Formats Available
 * CSV 
 * SQL
+* JSON
 
 <p><b>Insights</b></p>
 <ul>
